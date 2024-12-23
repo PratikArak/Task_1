@@ -16,8 +16,7 @@ Analyze user behavior, cooking preferences, and order trends to provide insights
 
 ## Files
 - `cleaned_data.csv`: Merged and cleaned dataset.
-- `analysis.ipynb`: Analysis script.
-- `visualizations/`: Contains chart images.
+- `Assessment.pbix`: Analysis dashboard.
 - `report.pdf`: Final report.
 - `README.md`: This file.
 
